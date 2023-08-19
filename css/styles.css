@@ -1,0 +1,43 @@
+.form-signin {
+    max-width: 456px;
+    padding: 1rem;
+}
+form#signupForm {
+    max-width: 300px;
+    margin: 0 auto;
+}
+header {
+    background: #7749F8;
+    color: #fff;
+    padding: 8px 0;
+}
+.btn.btn-primary {
+    background: #7749f8;
+    border-color: #7749f8;
+}
+header span a {
+    font-size: 11px;
+    padding-top: 5px;
+    color: #fff;
+    text-decoration: none;
+}
+a#logoutbtn {
+    cursor: pointer;
+    font-weight: bold;
+}
+span#userId {
+    font-size: 12px;
+    padding-right: 20px;
+    text-transform: capitalize;
+}
+textarea#itemDescription {
+    min-height: 127px;
+}
+span#userId.authorName {
+    color: #6C757D;
+    font-weight: bold;
+    font-size: 15px;
+}
+.container.postListing {
+    display: none;
+}
